@@ -1,0 +1,60 @@
+{
+  "tickets": [
+    {
+      "title": "Software Installation Error",
+      "body": "I am encountering an error while attempting to install the new software update on my computer. The installation process starts but fails midway with an error code. I have ensured that my system meets all the required specifications and have attempted multiple installations. Assistance is needed to resolve this issue to keep my software up to date.",
+      "priority": "Medium",
+      "userEmail": "terenzjetcemtuason@gmail.com",
+      "id": "3"
+    },
+    {
+      "title": "Network Connectivity Issues",
+      "body": "There have been ongoing issues with network connectivity in our office. The internet connection is intermittent, causing disruptions to work activities. The problem seems to affect multiple devices and has been persistent for the past week. We need a thorough investigation to identify and resolve the underlying cause of these connectivity issues.",
+      "priority": "High",
+      "userEmail": "terenzjetcemtuason@gmail.com",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "title": "Software Bug Report",
+      "body": "I have discovered a bug in the application that causes it to crash under specific conditions. The issue occurs when performing a series of actions, and it results in the application freezing or closing unexpectedly. A detailed report of the steps to reproduce the bug and screenshots are included. Assistance is required to fix this bug and ensure the application runs smoothly.",
+      "priority": "High",
+      "userEmail": "user5@example.com"
+    },
+    {
+      "id": "6",
+      "title": "Email Sync Problems",
+      "body": "My email client is not syncing properly with the server. New emails are not appearing in my inbox, and sent emails are not being updated. I have tried reconfiguring the email settings and checking for updates, but the issue remains unresolved. I need help to ensure that my email client functions correctly and syncs with the server.",
+      "priority": "Medium",
+      "userEmail": "user6@example.com"
+    },
+    {
+      "id": "7",
+      "title": "Computer Performance Issues",
+      "body": "My computer has been running very sLowly lately. It takes a long time to boot up and applications are sluggish. I have run antivirus scans and cleaned up temporary files, but the performance issues persist. A thorough diagnostic is needed to identify any underlying problems and improve the overall performance of the computer.",
+      "priority": "Low",
+      "userEmail": "user7@example.com"
+    },
+    {
+      "title": "VPN Connection Failure",
+      "body": "I am experiencing issues with connecting to the company VPN. The connection attempts fail with an error message indicating that the server is unreachable. I have tried using different network connections and resetting my VPN settings, but the problem continues. Immediate assistance is needed to restore VPN access for secure remote work.",
+      "priority": "High",
+      "userEmail": "terenzjetcemtuason@gmail.com",
+      "id": "8"
+    },
+    {
+      "id": "9",
+      "title": "Mobile App Login Issues",
+      "body": "I am unable to log into the mobile app despite using the correct credentials. The app either crashes or displays an error message indicating authentication failure. I have uninstalled and reinstalled the app, but the issue persists. Help is needed to resolve this login problem and ensure that I can access the app on my mobile device.",
+      "priority": "Medium",
+      "userEmail": "user9@example.com"
+    },
+    {
+      "title": "Database Query Performance",
+      "body": "The performance of certain database queries has significantly deteriorated. Queries that previously executed quickly are now taking an excessive amount of time. I have reviewed the query execution plans and indexes but have not identified the cause. Assistance is required to optimize the queries and improve database performance.",
+      "priority": "High",
+      "userEmail": "terenzjetcemtuason@gmail.com",
+      "id": "10"
+    }
+  ]
+}
